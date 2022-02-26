@@ -33,7 +33,7 @@ Untuk mengerjakan fisika matematik 1 pada pemrograman python diperlukan beberapa
 
 ## Instalasi Sympy
 
-Inslatasi SymPy melalui PyPI. Silahkan ketik perintah dibawah pada terminal OS:
+Instalasi SymPy melalui PyPI. Silahkan ketik perintah tanpa tanda '$' dibawah pada terminal OS:
 
     $ pip install sympy
 
