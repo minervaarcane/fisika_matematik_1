@@ -4,15 +4,15 @@
 Fisika Matematik 1 menggunakan Bahasa Pemrograman Python untuk mengerjakan task di modul yang telah dibagikan
 
 #### Modul Fisika Matematik 1:
-- MATHEMATICAL METHODS IN THE PHYSICAL SCIENCES [Unduh disini](https://hnjdfuelaa-my.sharepoint.com/:b:/g/personal/chaidar_originalofice_id/EaZd8Ia8zpdMpts50H6KHFoBaJUokCgG67RsIW3rb3BJpw?e=snMlYK)
-- FISIKA MATEMATIKA Edisi I [Unduh disini](https://hnjdfuelaa-my.sharepoint.com/:b:/g/personal/chaidar_originalofice_id/Eaybn4-GHAxIpSeyjxiM6g8BYGiufTjuRHQCrDVSG796Iw?e=G4Dxxw)
-- FISIKA MATEMATIKA (Buku 1) [Unduh disini](https://hnjdfuelaa-my.sharepoint.com/:b:/g/personal/chaidar_originalofice_id/EQ8d4xGUAZhAoCThLMw9H8YBhQvUOZTwNMv1qw8sRGdAJg?e=j6qiuX)
+- MATHEMATICAL METHODS IN THE PHYSICAL SCIENCES [Unduh disini](https://drive.google.com/file/d/1QnuHyWNv03_nJV8hIo08FptNQgqA7oAS/view?usp=sharing)
+- FISIKA MATEMATIKA Edisi I [Unduh disini](https://drive.google.com/file/d/1FXajn0Nczfi0dYUgC5H-4bQ9XxegVjYu/view?usp=sharing)
+- FISIKA MATEMATIKA (Buku 1) [Unduh disini](https://drive.google.com/file/d/1JRydQCw3YbS5glZH1KubeHtLegPUhjAn/view?usp=sharing)
 
 ### Materi tambahan
 
-- Tabel Integral [Unduh disini](https://hnjdfuelaa-my.sharepoint.com/:b:/g/personal/chaidar_originalofice_id/EVRv72V3CcVGr2RWtZF3sYEBoB3gQQp_lZXdGTblelHlrw?e=CyabxV)
-- Deret Pangkat dan Uji Konvergensi [Unduh disini](https://hnjdfuelaa-my.sharepoint.com/:b:/g/personal/chaidar_originalofice_id/EQ1fUheHV7pMhWokwtJQriUBkkbaMb6IIFGcssqLf24xvA?e=yeb1dD)
-- Konvergensi Deret [Unduh disini](https://hnjdfuelaa-my.sharepoint.com/:b:/g/personal/chaidar_originalofice_id/ETuko2ihcHNFob3jB-N05zQBTJMTMpq4GIybdfqAoMSokQ?e=Jw0QHr)
+- Tabel Integral [Unduh disini](https://drive.google.com/file/d/1eFH_a_X8lp19-AQKLVsxzgpRE6IEWKmI/view?usp=sharing)
+- Deret Pangkat dan Uji Konvergensi [Unduh disini](https://drive.google.com/file/d/1HMY7PraFKp9sPdKcPcYNM335Ec0cyiC2/view?usp=sharing)
+- Konvergensi Deret [Unduh disini](https://drive.google.com/file/d/1tE5wx64bfZbJutkJaqxjya36ea_AU3Ew/view?usp=sharing)
 
 ## Bahasa Pemrograman
 
