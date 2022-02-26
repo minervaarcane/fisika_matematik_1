@@ -29,9 +29,12 @@ Untuk mengerjakan fisika matematik 1 pada pemrograman python diperlukan beberapa
 
 | Library | Readme |
 | ------ | ------ |
-| Sympy | [Readme](https://github.com/sympy/sympy/blob/b7f56b0acf7a26fa88c2be993e0f36f789c0c2e4/README.md) |
-
-## Instalasi Sympy
+| SymPy | [Readme](https://github.com/sympy/sympy/blob/b7f56b0acf7a26fa88c2be993e0f36f789c0c2e4/README.md) |
+| SciPy | [Readme](https://github.com/scipy/scipy/blob/ce4b43097356dfc42504d81d6164b73ee0896c71/README.rst)|
+| NumPy| [Readme](https://github.com/numpy/numpy/blob/08248aae1c82ae910af34ec197e382cb2a94e067/README.md)|
+| Matplotlib| [Readme](https://github.com/matplotlib/matplotlib/blob/3a994d25f00e40df18fefc4c8b2ba57519bebacc/README.rst)|
+****
+## Instalasi SymPy
 
 Instalasi SymPy melalui PyPI. Silahkan ketik perintah tanpa tanda `$` dibawah pada terminal OS:
 
@@ -50,7 +53,39 @@ Kemudian. Jika SymPy sudah terclonning, maka jalankan perintah:
     $ python setup.py install
 
 Lihat <https://docs.sympy.org/dev/install.html> Untuk informasi lebih lanjut.
+## Instalasi NumPy
 
+Instalasi NumpY melalui PyPI. Silahkan ketik perintah tanpa tanda `$` dibawah pada terminal OS:
+
+    $ pip install numpy 
+
+Jika ana menggunakan Anaconda, maka perintahnya:
+
+    $ conda install numpy
+
+Lihat <https://numpy.org/install/> Untuk informasi lebih lanjut.
+## Instalasi SciPy
+
+Instalasi NumpY melalui PyPI. Silahkan ketik perintah tanpa tanda `$` dibawah pada terminal OS:
+
+    $ pip install scipy
+
+Jika ana menggunakan Anaconda, maka perintahnya:
+
+    $ conda install scipy
+
+Lihat <https://docs.scipy.org/doc/scipy/getting_started.html> Untuk informasi lebih lanjut.
+## Instalasi Matplotlib
+
+Instalasi NumpY melalui PyPI. Silahkan ketik perintah tanpa tanda `$` dibawah pada terminal OS:
+
+    $ pip install matplotlib
+
+Jika ana menggunakan Anaconda, maka perintahnya:
+
+    $ conda install matplotlib
+
+Lihat <https://matplotlib.org/stable/users/getting_started/index.html> Untuk informasi lebih lanjut.
 
 ### Semangat :)
 
