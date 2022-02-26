@@ -16,7 +16,7 @@ Fisika Matematik 1 menggunakan Bahasa Pemrograman Python untuk mengerjakan task 
 
 ## Bahasa Pemrograman
 
-Pada Mata Kuliah Fisika Matematik 1 ini bahasa yang digunakan adalah bahasa python :
+Pada Mata Kuliah Fisika Matematik 1 ini bahasa yang digunakan adalah bahasa python
 
 ## Instalasi Python
 
