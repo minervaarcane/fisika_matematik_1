@@ -16,7 +16,7 @@ Fisika Matematik 1 menggunakan Bahasa Pemrograman Python untuk mengerjakan task 
 
 ## Bahasa Pemrograman
 
-Pada Mata Kuliah Fisika Matematik 1 ini bahasa yang digunakan adalah bahasa python :
+Pada Mata Kuliah Fisika Matematik 1 ini bahasa yang digunakan adalah bahasa python
 
 ## Instalasi Python
 
@@ -27,13 +27,13 @@ Silahkan install python kemudian jalankan pada code editor kalian
 
 Untuk mengerjakan fisika matematik 1 pada pemrograman python diperlukan beberapa library tambahan
 
-| Library | Tautan |
+| Library | Readme |
 | ------ | ------ |
-| Sympy | [Dokumentasi](https://github.com/sympy/sympy/blob/b7f56b0acf7a26fa88c2be993e0f36f789c0c2e4/README.md) |
+| Sympy | [Readme](https://github.com/sympy/sympy/blob/b7f56b0acf7a26fa88c2be993e0f36f789c0c2e4/README.md) |
 
 ## Instalasi Sympy
 
-Inslatasi SymPy melalui PyPI. Silahkan ketik perintah dibawah pada terminal OS:
+Instalasi SymPy melalui PyPI. Silahkan ketik perintah tanpa tanda `$` dibawah pada terminal OS:
 
     $ pip install sympy
 
