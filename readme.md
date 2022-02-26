@@ -27,9 +27,9 @@ Silahkan install python kemudian jalankan pada code editor kalian
 
 Untuk mengerjakan fisika matematik 1 pada pemrograman python diperlukan beberapa library tambahan
 
-| Library | Tautan |
+| Library | Readme |
 | ------ | ------ |
-| Sympy | [Dokumentasi](https://github.com/sympy/sympy/blob/b7f56b0acf7a26fa88c2be993e0f36f789c0c2e4/README.md) |
+| Sympy | [Readme](https://github.com/sympy/sympy/blob/b7f56b0acf7a26fa88c2be993e0f36f789c0c2e4/README.md) |
 
 ## Instalasi Sympy
 
