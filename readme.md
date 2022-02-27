@@ -40,7 +40,7 @@ Instalasi SymPy melalui PyPI. Silahkan ketik perintah tanpa tanda `$` dibawah pa
 
     $ pip install sympy
 
-Jika ana menggunakan Anaconda, maka perintahnya:
+Jika anda menggunakan Anaconda, maka perintahnya:
 
     $ conda install -c anaconda sympy
 
