@@ -40,18 +40,6 @@ Instalasi SymPy melalui PyPI. Silahkan ketik perintah tanpa tanda `$` dibawah pa
 
     $ pip install sympy
 
-Jika ana menggunakan Anaconda, maka perintahnya:
-
-    $ conda install -c anaconda sympy
-
-Jika install dari Github. Maka silahkan cloning repositorinya dengan `git`:
-
-    $ git clone https://github.com/sympy/sympy.git
-
-Kemudian. Jika SymPy sudah terclonning, maka jalankan perintah:
-
-    $ python setup.py install
-
 Lihat <https://docs.sympy.org/dev/install.html> Untuk informasi lebih lanjut.
 ## Instalasi NumPy
 
