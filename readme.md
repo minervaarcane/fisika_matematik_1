@@ -47,9 +47,6 @@ Instalasi NumpY melalui PyPI. Silahkan ketik perintah tanpa tanda `$` dibawah pa
 
     $ pip install numpy 
 
-Jika ana menggunakan Anaconda, maka perintahnya:
-
-    $ conda install numpy
 
 Lihat <https://numpy.org/install/> Untuk informasi lebih lanjut.
 ## Instalasi SciPy
@@ -58,9 +55,6 @@ Instalasi NumpY melalui PyPI. Silahkan ketik perintah tanpa tanda `$` dibawah pa
 
     $ pip install scipy
 
-Jika ana menggunakan Anaconda, maka perintahnya:
-
-    $ conda install scipy
 
 Lihat <https://docs.scipy.org/doc/scipy/getting_started.html> Untuk informasi lebih lanjut.
 ## Instalasi Matplotlib
@@ -69,9 +63,6 @@ Instalasi NumpY melalui PyPI. Silahkan ketik perintah tanpa tanda `$` dibawah pa
 
     $ pip install matplotlib
 
-Jika ana menggunakan Anaconda, maka perintahnya:
-
-    $ conda install matplotlib
 
 Lihat <https://matplotlib.org/stable/users/getting_started/index.html> Untuk informasi lebih lanjut.
 
