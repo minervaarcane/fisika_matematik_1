@@ -23,6 +23,8 @@ plt.style.use('classic')
 
 n, x = smp.symbols('n x')
 
+Eq()
+
 
 # %%
 x = np.linspace(-np.pi, np.pi, 200)
